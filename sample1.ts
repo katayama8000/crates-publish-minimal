@@ -5,3 +5,4 @@ console.log(msg);
 const msg1 = "fuck2 World";
 console.log(msg1);
 const commit = "fuck3 World";
+console.log(commit);
