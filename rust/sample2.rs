@@ -8,4 +8,5 @@ fn main() {
   println!("E");
   println!("F");
   println!("G");
+  println!("H");
 }
