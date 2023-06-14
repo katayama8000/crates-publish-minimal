@@ -6,4 +6,5 @@ fn main() {
   println!("B");
   println!("Hello, world!");
   println!("E");
+  println!("F");
 }
